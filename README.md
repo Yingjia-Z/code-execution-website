@@ -1,4 +1,4 @@
-## Notes
+## Notes:
 
 Sadly this website doesn't work as expected :(
 
@@ -41,3 +41,6 @@ npm install --legacy-peer-deps
 # As a last resort, force install specific packages
 npm install @uiw/react-codemirror @codemirror/lang-python --force
 ```
+
+## Current Design:
+![alt text](Screenshot.png)
